@@ -1,0 +1,15 @@
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\obj\Debug\net7.0\OOP1.csproj.AssemblyReference.cache
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\obj\Debug\net7.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\obj\Debug\net7.0\OOP1.AssemblyInfoInputs.cache
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\obj\Debug\net7.0\OOP1.AssemblyInfo.cs
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\obj\Debug\net7.0\OOP1.csproj.CoreCompileInputs.cache
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\bin\Debug\net7.0\OOP1.exe
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\bin\Debug\net7.0\OOP1.deps.json
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\bin\Debug\net7.0\OOP1.runtimeconfig.json
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\bin\Debug\net7.0\OOP1.dll
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\bin\Debug\net7.0\OOP1.pdb
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\obj\Debug\net7.0\OOP1.dll
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\obj\Debug\net7.0\refint\OOP1.dll
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\obj\Debug\net7.0\OOP1.pdb
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\obj\Debug\net7.0\OOP1.genruntimeconfig.cache
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\OOP1\OOP1\obj\Debug\net7.0\ref\OOP1.dll

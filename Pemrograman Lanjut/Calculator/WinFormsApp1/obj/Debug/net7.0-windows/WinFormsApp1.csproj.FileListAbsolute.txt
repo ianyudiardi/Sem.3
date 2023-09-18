@@ -1,0 +1,17 @@
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Calculator\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
