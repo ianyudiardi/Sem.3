@@ -1,0 +1,10 @@
+E:\22.61.0233\02\Tugas3.1\Tugas3.1\bin\Debug\Tugas3.1.exe.config
+E:\22.61.0233\02\Tugas3.1\Tugas3.1\bin\Debug\Tugas3.1.exe
+E:\22.61.0233\02\Tugas3.1\Tugas3.1\bin\Debug\Tugas3.1.pdb
+E:\22.61.0233\02\Tugas3.1\Tugas3.1\obj\Debug\Tugas3._1.frmTugas3Satu.resources
+E:\22.61.0233\02\Tugas3.1\Tugas3.1\obj\Debug\Tugas3._1.Properties.Resources.resources
+E:\22.61.0233\02\Tugas3.1\Tugas3.1\obj\Debug\Tugas3.1.csproj.GenerateResource.cache
+E:\22.61.0233\02\Tugas3.1\Tugas3.1\obj\Debug\Tugas3.1.csproj.CoreCompileInputs.cache
+E:\22.61.0233\02\Tugas3.1\Tugas3.1\obj\Debug\Tugas3.1.exe
+E:\22.61.0233\02\Tugas3.1\Tugas3.1\obj\Debug\Tugas3.1.pdb
+E:\22.61.0233\02\Tugas3.1\Tugas3.1\obj\Debug\Tugas3.1.csprojAssemblyReference.cache
