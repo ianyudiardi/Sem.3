@@ -1,0 +1,11 @@
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\02\Tugas3.3\Tugas3.3\obj\Debug\Tugas3.3.csproj.AssemblyReference.cache
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\02\Tugas3.3\Tugas3.3\obj\Debug\Tugas3.3.csproj.SuggestedBindingRedirects.cache
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\02\Tugas3.3\Tugas3.3\obj\Debug\Tugas3._3.frmTugas3Dua.resources
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\02\Tugas3.3\Tugas3.3\obj\Debug\Tugas3._3.Properties.Resources.resources
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\02\Tugas3.3\Tugas3.3\obj\Debug\Tugas3.3.csproj.GenerateResource.cache
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\02\Tugas3.3\Tugas3.3\obj\Debug\Tugas3.3.csproj.CoreCompileInputs.cache
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\02\Tugas3.3\Tugas3.3\bin\Debug\Tugas3.3.exe.config
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\02\Tugas3.3\Tugas3.3\bin\Debug\Tugas3.3.exe
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\02\Tugas3.3\Tugas3.3\bin\Debug\Tugas3.3.pdb
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\02\Tugas3.3\Tugas3.3\obj\Debug\Tugas3.3.exe
+D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\02\Tugas3.3\Tugas3.3\obj\Debug\Tugas3.3.pdb
