@@ -26,7 +26,7 @@ namespace PerpustakaanAppMVC.Model.Context
             {
                 // atur ulang lokasi database yang disesuaikan dengan
                 // lokasi database perpustakaan Anda
-                string dbName = @"D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\Database\DbPerpustakaan.db";
+                string dbName = @"D:\!AMIKOM\SEMESTER 3\Pemrograman Lanjut\11\MVC - REST API\PerpustakaanAppMVC\Database\DbPerpustakaan.db";
                 string connectionString = string.Format("Data Source ={0}; FailIfMissing = True", dbName);
             conn = new SQLiteConnection(connectionString); // buat objek connection
             conn.Open(); // buka koneksi ke database

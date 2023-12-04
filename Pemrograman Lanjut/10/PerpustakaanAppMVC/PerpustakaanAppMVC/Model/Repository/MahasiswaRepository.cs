@@ -78,6 +78,7 @@ namespace PerpustakaanAppMVC.Model.Repository
 
             using (SQLiteCommand cmd = new SQLiteCommand(sql, _conn))
             {
+                cmd.Parameters.AddWithValue("@npm", mhs.Npm);
                 try
                 {
                     result = cmd.ExecuteNonQuery();
